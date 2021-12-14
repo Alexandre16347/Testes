@@ -1,1 +1,1 @@
-print("Hello world")
+print("Tobey e Andrew estão no filme kekw")
